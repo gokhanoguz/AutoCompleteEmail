@@ -1,1 +1,1 @@
-An AutoCompleteTextView that will remember emails from accuntmanager
+An AutoCompleteTextView that will complete emails from accountmanager
